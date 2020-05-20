@@ -1,0 +1,13 @@
+C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma03\bin\Debug\netcoreapp3.1\Alistirma03.exe
+C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma03\bin\Debug\netcoreapp3.1\Alistirma03.deps.json
+C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma03\bin\Debug\netcoreapp3.1\Alistirma03.runtimeconfig.json
+C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma03\bin\Debug\netcoreapp3.1\Alistirma03.runtimeconfig.dev.json
+C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma03\bin\Debug\netcoreapp3.1\Alistirma03.dll
+C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma03\bin\Debug\netcoreapp3.1\Alistirma03.pdb
+C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma03\obj\Debug\netcoreapp3.1\Alistirma03.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma03\obj\Debug\netcoreapp3.1\Alistirma03.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma03\obj\Debug\netcoreapp3.1\Alistirma03.AssemblyInfoInputs.cache
+C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma03\obj\Debug\netcoreapp3.1\Alistirma03.AssemblyInfo.cs
+C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma03\obj\Debug\netcoreapp3.1\Alistirma03.dll
+C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma03\obj\Debug\netcoreapp3.1\Alistirma03.pdb
+C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma03\obj\Debug\netcoreapp3.1\Alistirma03.genruntimeconfig.cache
