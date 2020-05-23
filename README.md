@@ -1,9 +1,9 @@
 ### Yeni Başlayanlar İçin C# İle Algoritmalara ve Programcılığa Giriş
 Yazılıma yeni başlayanlar ve başlamak isteyenler için faydalı bir kitap, dili akıcı ve anlaşılır. İlk bitirdiğim programlama kitabıdır. Bu repo;  
 
-* 8. Bölüm Döngüler
-* 9. Bölüm Metotlar
-* 11. Bölüm Diziler
+* 8 .  Bölüm Döngüler
+* 9 .  Bölüm Metotlar
+* 11 . Bölüm Diziler
 
 
 Konu alıştırmalarının çözümü ile alakalı kodlar bulunmaktadır.
