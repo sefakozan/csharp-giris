@@ -826,7 +826,7 @@ static void Main(string[] args)
 ```cs
 static void Main(string[] args)
         {
-            // 10 satır, 2 sütun iki boyulu dizi
+            // 10 satır, 2 sütun
             string[,] bilgiler = new string[10, 2];
             int sira = 1;
 
