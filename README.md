@@ -8,7 +8,7 @@ Yazılıma yeni başlayanlar ve başlamak isteyenler için faydalı bir kitap, d
 
 Konu alıştırmalarının çözümü ile alakalı kodlar bulunmaktadır.
 
-![](kapak.jpg)
+![](kapak-fotografi.jpg)
 
 -------
 # 8. Bölüm Döngüler
