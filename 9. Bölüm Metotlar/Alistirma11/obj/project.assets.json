@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sefa\\Desktop\\riskey\\MetotKonuAlistirmalari\\Alistirma11\\Alistirma11.csproj",
+      "projectUniqueName": "C:\\GitHub\\csharp-giris\\9. Bölüm Metotlar\\Alistirma11\\Alistirma11.csproj",
       "projectName": "Alistirma11",
-      "projectPath": "C:\\Users\\Sefa\\Desktop\\riskey\\MetotKonuAlistirmalari\\Alistirma11\\Alistirma11.csproj",
+      "projectPath": "C:\\GitHub\\csharp-giris\\9. Bölüm Metotlar\\Alistirma11\\Alistirma11.csproj",
       "packagesPath": "C:\\Users\\Sefa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sefa\\Desktop\\riskey\\MetotKonuAlistirmalari\\Alistirma11\\obj\\",
+      "outputPath": "C:\\GitHub\\csharp-giris\\9. Bölüm Metotlar\\Alistirma11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sefa\\AppData\\Roaming\\NuGet\\NuGet.Config",

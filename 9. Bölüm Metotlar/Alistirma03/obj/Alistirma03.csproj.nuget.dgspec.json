@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sefa\\Desktop\\riskey\\MetotKonuAlistirmalari\\Alistirma03\\Alistirma03.csproj": {}
+    "C:\\GitHub\\csharp-giris\\9. Bölüm Metotlar\\Alistirma03\\Alistirma03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sefa\\Desktop\\riskey\\MetotKonuAlistirmalari\\Alistirma03\\Alistirma03.csproj": {
+    "C:\\GitHub\\csharp-giris\\9. Bölüm Metotlar\\Alistirma03\\Alistirma03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sefa\\Desktop\\riskey\\MetotKonuAlistirmalari\\Alistirma03\\Alistirma03.csproj",
+        "projectUniqueName": "C:\\GitHub\\csharp-giris\\9. Bölüm Metotlar\\Alistirma03\\Alistirma03.csproj",
         "projectName": "Alistirma03",
-        "projectPath": "C:\\Users\\Sefa\\Desktop\\riskey\\MetotKonuAlistirmalari\\Alistirma03\\Alistirma03.csproj",
+        "projectPath": "C:\\GitHub\\csharp-giris\\9. Bölüm Metotlar\\Alistirma03\\Alistirma03.csproj",
         "packagesPath": "C:\\Users\\Sefa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sefa\\Desktop\\riskey\\MetotKonuAlistirmalari\\Alistirma03\\obj\\",
+        "outputPath": "C:\\GitHub\\csharp-giris\\9. Bölüm Metotlar\\Alistirma03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sefa\\AppData\\Roaming\\NuGet\\NuGet.Config",

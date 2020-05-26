@@ -11,3 +11,16 @@ C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma07\obj\Debug\netcor
 C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma07\obj\Debug\netcoreapp3.1\Alistirma07.pdb
 C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma07\obj\Debug\netcoreapp3.1\Alistirma07.genruntimeconfig.cache
 C:\Users\Sefa\Desktop\riskey\MetotKonuAlistirmalari\Alistirma07\obj\Debug\netcoreapp3.1\Alistirma07.csprojAssemblyReference.cache
+C:\GitHub\csharp-giris\9. Bölüm Metotlar\Alistirma07\bin\Debug\netcoreapp3.1\Alistirma07.exe
+C:\GitHub\csharp-giris\9. Bölüm Metotlar\Alistirma07\bin\Debug\netcoreapp3.1\Alistirma07.deps.json
+C:\GitHub\csharp-giris\9. Bölüm Metotlar\Alistirma07\bin\Debug\netcoreapp3.1\Alistirma07.runtimeconfig.json
+C:\GitHub\csharp-giris\9. Bölüm Metotlar\Alistirma07\bin\Debug\netcoreapp3.1\Alistirma07.runtimeconfig.dev.json
+C:\GitHub\csharp-giris\9. Bölüm Metotlar\Alistirma07\bin\Debug\netcoreapp3.1\Alistirma07.dll
+C:\GitHub\csharp-giris\9. Bölüm Metotlar\Alistirma07\bin\Debug\netcoreapp3.1\Alistirma07.pdb
+C:\GitHub\csharp-giris\9. Bölüm Metotlar\Alistirma07\obj\Debug\netcoreapp3.1\Alistirma07.csprojAssemblyReference.cache
+C:\GitHub\csharp-giris\9. Bölüm Metotlar\Alistirma07\obj\Debug\netcoreapp3.1\Alistirma07.csproj.CoreCompileInputs.cache
+C:\GitHub\csharp-giris\9. Bölüm Metotlar\Alistirma07\obj\Debug\netcoreapp3.1\Alistirma07.AssemblyInfoInputs.cache
+C:\GitHub\csharp-giris\9. Bölüm Metotlar\Alistirma07\obj\Debug\netcoreapp3.1\Alistirma07.AssemblyInfo.cs
+C:\GitHub\csharp-giris\9. Bölüm Metotlar\Alistirma07\obj\Debug\netcoreapp3.1\Alistirma07.dll
+C:\GitHub\csharp-giris\9. Bölüm Metotlar\Alistirma07\obj\Debug\netcoreapp3.1\Alistirma07.pdb
+C:\GitHub\csharp-giris\9. Bölüm Metotlar\Alistirma07\obj\Debug\netcoreapp3.1\Alistirma07.genruntimeconfig.cache
