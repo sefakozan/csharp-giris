@@ -1,7 +1,0 @@
-C:\Users\Sefa\Desktop\riskey\DiziKonuAlistirmalari\Alistirma06\bin\Debug\Alistirma06.exe.config
-C:\Users\Sefa\Desktop\riskey\DiziKonuAlistirmalari\Alistirma06\bin\Debug\Alistirma06.exe
-C:\Users\Sefa\Desktop\riskey\DiziKonuAlistirmalari\Alistirma06\bin\Debug\Alistirma06.pdb
-C:\Users\Sefa\Desktop\riskey\DiziKonuAlistirmalari\Alistirma06\obj\Debug\Alistirma06.csproj.CoreCompileInputs.cache
-C:\Users\Sefa\Desktop\riskey\DiziKonuAlistirmalari\Alistirma06\obj\Debug\Alistirma06.exe
-C:\Users\Sefa\Desktop\riskey\DiziKonuAlistirmalari\Alistirma06\obj\Debug\Alistirma06.pdb
-C:\Users\Sefa\Desktop\riskey\DiziKonuAlistirmalari\Alistirma06\obj\Debug\Alistirma06.csprojAssemblyReference.cache
